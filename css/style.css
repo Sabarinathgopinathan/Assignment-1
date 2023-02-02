@@ -199,6 +199,7 @@
     }
     .teaching {
         margin: auto;
+        width: 100%;
     }
     .quote h1 {
         text-align: center;
